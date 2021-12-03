@@ -1,0 +1,14 @@
+1) Donation App (Blood, Liver, Kidney)
+
+2) Covid Care App (No. of beds available in different hospitals)
+
+3) Recommendation App (Movies [Views, ratings of other people, availability in OTT{Netflix, Prime, Hotstar}])
+
+4) Latest news app (APIs: https://medium.com/rakuten-rapidapi/top-10-best-news-apis-google-news-bloomberg-bing-news-and-more-bbf3e6e46af6)
+
+
+Movie Reccommendation App
+
+1) Sign Up, Login In
+2) Form for choice of the user
+3) Form for Description and rating of some movie
